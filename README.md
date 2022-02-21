@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kristofermar&show_icons=true&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristofermar&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+My good friend
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielgorgis96&show_icons=true&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgorgis96&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
